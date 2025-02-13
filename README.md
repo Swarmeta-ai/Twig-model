@@ -4,9 +4,9 @@
 
 [English README](README_en.md) | 中文 README
 
-![Twig v0 alpha 示例图像](https://cdn-uploads.huggingface.co/production/uploads/6471e487b628f9ecdf05b169/6_oJZK49Py-EWTmaCP-o7.png)
-
 ## 模型详情 (Model Details)
+
+🤗链接：[Swarmeta-AI/Twig-v0-alpha](https://huggingface.co/Swarmeta-AI/Twig-v0-alpha)
 
 ### 模型描述 (Model Description)
 
