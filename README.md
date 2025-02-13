@@ -24,7 +24,7 @@ Alpha 版本使用了一个 **约 6 万个精心策划的图像-文本对数据�
 
 **许可协议说明:** 原始仓库的许可协议未明确声明，但在此假设与此处使用的 Apache 2.0 许可协议兼容。 如果需要进一步澄清许可协议，请参考原始仓库（在“模型来源”中链接）。
 
-- **开发者 (Developed by):** [Swarmeta-AI](https://github.com/Swarmeta-ai) & Rath-Academy(https://github.com/RATH-Academy) & 
+- **开发者 (Developed by):** [Swarmeta-AI](https://github.com/Swarmeta-ai) & [Rath-Academy](https://github.com/RATH-Academy)
 - **资助方 (Funded by):** National Supercomputing Center
 - **语言 (Language(s)):** 英语 (English), 中文 (Chinese)
 - **许可协议 (License):** apache-2.0
